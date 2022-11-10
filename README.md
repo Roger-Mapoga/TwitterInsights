@@ -5,6 +5,8 @@ The program counts the number of hashtags a user tweeted within some duration of
 
 How to:
 
+Populate the properties in the file named application.properties.template under resources folder
+
     Run 'mvn clean install' to resolve the dependencies 
     create folder called 'results' under main folders
     Click run on intelliJ IDE and stop to terminate program
