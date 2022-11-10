@@ -1,0 +1,4 @@
+twitter4j.oauth.consumerKey=<consume key>
+twitter4j.oauth.consumerSecret=<consumer secret>
+twitter4j.oauth.accessToken=<access token>
+twitter4j.oauth.accessTokenSecret=<secrete token>
