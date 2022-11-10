@@ -1,7 +1,7 @@
 # TwitterInsights
 
 Twitter insights pulls data from the publicly available Twitter api.
-The program counts the number of hashtags as user tweeted within a some duration of time
+The program counts the number of hashtags a user tweeted within some duration of time then prints out the results to the console and save them to a partitioned files.
 
 How to:
 
