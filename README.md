@@ -5,7 +5,7 @@ The program counts the number of hashtags a user tweeted within some duration of
 
 How to:
 
-Populate the properties in the file named application.properties.template under resources folder
+Populate the properties in the file named application.properties.template under resources folder and rename file to application.properties
 
     Run 'mvn clean install' to resolve the dependencies 
     create folder called 'results' under main folders
